@@ -12,3 +12,9 @@ For every source, document:
 - Checksums for downloaded files where practical
 
 Do not commit raw or restricted third-party data unless redistribution is explicitly permitted. Never store API keys or credentials in this repository.
+
+## Current source audit
+
+See [OECD ICIO source feasibility audit](icio_source_audit.md) for the preliminary review of the 2026 regular release, coverage, access, reuse terms, and pending validation actions.
+
+Current recommendation: OECD ICIO 2026 regular is the preferred primary candidate. It is not yet approved for analysis or raw-data redistribution; file-level metadata and access still need to be checked.
