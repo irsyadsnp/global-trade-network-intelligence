@@ -52,9 +52,9 @@ UN Comtrade may be used for bilateral merchandise-trade validation or product-le
 
 ## Repository status
 
-**Current stage:** Stage 00 — Repository initialization.
+**Current stage:** Stage 01 — Research foundation.
 
-Research design and dataset validation are pending. No empirical findings are claimed.
+A provisional research charter is documented in `docs/research_design/research_charter.md`. Dataset selection and validation remain pending. No empirical findings are claimed.
 
 ## Planned project structure
 
