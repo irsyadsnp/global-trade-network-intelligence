@@ -22,3 +22,7 @@ Current recommendation: OECD ICIO 2026 regular is the preferred primary candidat
 ## Follow-up metadata review
 
 The landing-page findings and outstanding file-level checks are recorded in [ICIO 2026 Metadata Review](icio_2026_metadata_review.md). The Annex, ReadMe, and archives still require direct inspection; no download is claimed.
+
+## Download procedure
+
+Follow the [ICIO 2026 Download and Validation Guide](icio_download_and_validation_guide.md). Download only the Annex, ReadMe, and one 1995–1999 Regular sample block first. Do not acquire all periods until the sample passes validation.
