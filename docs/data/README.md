@@ -18,3 +18,7 @@ Do not commit raw or restricted third-party data unless redistribution is explic
 See [OECD ICIO source feasibility audit](icio_source_audit.md) for the preliminary review of the 2026 regular release, coverage, access, reuse terms, and pending validation actions.
 
 Current recommendation: OECD ICIO 2026 regular is the preferred primary candidate. It is not yet approved for analysis or raw-data redistribution; file-level metadata and access still need to be checked.
+
+## Follow-up metadata review
+
+The landing-page findings and outstanding file-level checks are recorded in [ICIO 2026 Metadata Review](icio_2026_metadata_review.md). The Annex, ReadMe, and archives still require direct inspection; no download is claimed.
